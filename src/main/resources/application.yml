@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-data-relational
+
+logging:
+  level:
+    org.springframework.jdbc.core: TRACE
